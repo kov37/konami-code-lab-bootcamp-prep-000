@@ -12,5 +12,5 @@ const codes = [
 ];
 
 function init() {
-  // your code here
+  const body = document.getElementByTag("")
 }
